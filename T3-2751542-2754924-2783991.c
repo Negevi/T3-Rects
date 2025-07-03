@@ -1,5 +1,5 @@
 /*=========================================================================================================*/
-/* Código desenvolvido por: Chan Hong Lik, Gustavo Olsson Felchner e Nicolas*/
+/* Código desenvolvido por: Gustavo Olsson Felchner, Chan Hong Lik, Nicolas Lisboa Lemke, Aliny Ventura do Nascimento da Silva*/
 #include "trabalho3.h"
 #include <stdlib.h>
 
